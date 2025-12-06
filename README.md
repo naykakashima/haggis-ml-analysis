@@ -33,7 +33,7 @@ source .venv/bin/activate
 pip install -r /path/to/requirements.txt
 ```
 
-# Replace '/path/to/requirements.txt' with your actual path
+**Replace '/path/to/requirements.txt' with your actual path**
 
 ### 4. Run the Notebook
 Open `Haggis_Analysis.ipynb` (or your notebook file) in Jupyter Notebook or VSCode and run all cells sequentially.
@@ -41,10 +41,10 @@ Open `Haggis_Analysis.ipynb` (or your notebook file) in Jupyter Notebook or VSCo
 ## Project Structure
 project_root/
 │
-├─ Haggis_Analysis.ipynb    # Main analysis notebook
-├─ requirements.txt         # Python dependencies
-├─ README.md                # This file
-└─ scottish_haggis_2025.csv # Data
+├─ scottish-haggis-analysis.ipynb # Main analysis notebook
+├─ requirements.txt               # Python dependencies
+├─ README.md                      # This file
+└─ scottish_haggis_2025.csv       # Data
 
 ## Notes
 - All analysis is reproducible by running the notebook from top to bottom.  
