@@ -44,7 +44,7 @@ project_root/
 ├─ Haggis_Analysis.ipynb    # Main analysis notebook
 ├─ requirements.txt         # Python dependencies
 ├─ README.md                # This file
-└─ data/                    # Data
+└─ scottish_haggis_2025.csv # Data
 
 ## Notes
 - All analysis is reproducible by running the notebook from top to bottom.  
