@@ -39,12 +39,14 @@ pip install -r /path/to/requirements.txt
 Open `Haggis_Analysis.ipynb` (or your notebook file) in Jupyter Notebook or VSCode and run all cells sequentially.
 
 ## Project Structure
+```
 project_root/
 │
 ├─ scottish-haggis-analysis.ipynb # Main analysis notebook
 ├─ requirements.txt               # Python dependencies
 ├─ README.md                      # This file
 └─ scottish_haggis_2025.csv       # Data
+```
 
 ## Notes
 - All analysis is reproducible by running the notebook from top to bottom.  
